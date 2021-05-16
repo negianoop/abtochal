@@ -1,10 +1,10 @@
 @font-face {
     font-family: Orbitron;
-    src: url('Orbitron-Regular.ttf');
+    src: url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 }
 @font-face{
     font-family:Quicksand; 
-    src:url('Quicksand-Regular.ttf')
+    src:url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 }
 *{
     box-sizing: border-box; 
